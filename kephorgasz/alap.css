@@ -1,0 +1,36 @@
+body
+{
+    background-color: whitesmoke;
+}
+.navbar
+{
+    background-color: rgb(95, 158, 187);
+    
+}
+#semmi
+{
+    height: 50px;
+    width: 100%;
+}
+#semmike
+{
+    height: 10px;
+    width: 100%;
+}
+#keresettkep
+{
+    border: 3px solid rgb(95, 158, 187);
+    height: 300px;
+    width: 500px;
+    background-color: rgb(134, 241, 134);
+    margin: auto;
+    border: 3px solid rgb(95, 158, 187);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 5px rgb(150, 204, 150);
+}
+#jatekter
+{
+    border: 3px solid rgb(95, 158, 187);
+    height: 480px;
+}
